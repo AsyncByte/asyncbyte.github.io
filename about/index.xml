@@ -26,10 +26,12 @@ We use your data to provide and improve the Service. By using the Service, you a
     <item>
       <title>License</title>
       <link>https://asyncbyte.github.io/about/license/</link>
-      <pubDate>Sat, 24 Jun 2017 20:50:41 +0700</pubDate>
+      <pubDate>Sat, 14 May 2016 20:50:41 +0700</pubDate>
       
       <guid>https://asyncbyte.github.io/about/license/</guid>
-      <description>You can put your blog, code, or work license here.</description>
+      <description>This page contains licenses of software that we use. We will update this page regularly.
+This website use :
+ awesome static web generator Hugo . with theme Manis , with little modification.  </description>
     </item>
     
   </channel>

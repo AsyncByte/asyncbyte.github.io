@@ -70,15 +70,6 @@ Features :
     </item>
     
     <item>
-      <title>License</title>
-      <link>https://asyncbyte.github.io/about/license/</link>
-      <pubDate>Sat, 24 Jun 2017 20:50:41 +0700</pubDate>
-      
-      <guid>https://asyncbyte.github.io/about/license/</guid>
-      <description>You can put your blog, code, or work license here.</description>
-    </item>
-    
-    <item>
       <title>Daily Money Tracker</title>
       <link>https://asyncbyte.github.io/work/catatan_keuangan_harian/</link>
       <pubDate>Tue, 13 Jun 2017 07:21:32 +0700</pubDate>
@@ -107,6 +98,17 @@ Features Simple and minimalist.
       <guid>https://asyncbyte.github.io/work/calendar_notes/</guid>
       <description>An very easy app to save your idea and your notes in a calendar date form
  beautiful &amp;amp; simple application without any pretension/requirement add a note, idea, personal agenda, diary into calendar perpetual calendar swipe left and right to change month in month view, you can change year by swipe left/right as well backup your notes manually into email or your online storage ( no need to login , you need do this manually ) optimized app, use latest android design guide and library small size APK  Don&amp;rsquo;t let your idea gone, write it down with this calendar notes app !</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://asyncbyte.github.io/about/license/</link>
+      <pubDate>Sat, 14 May 2016 20:50:41 +0700</pubDate>
+      
+      <guid>https://asyncbyte.github.io/about/license/</guid>
+      <description>This page contains licenses of software that we use. We will update this page regularly.
+This website use :
+ awesome static web generator Hugo . with theme Manis , with little modification.  </description>
     </item>
     
     <item>
