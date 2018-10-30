@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on AsyncByte Software</title>
+    <link>http://localhost:1313/work/</link>
+    <description>Recent content in Work on AsyncByte Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018 AsyncByte Software</copyright>
+    <lastBuildDate>Sun, 02 Jul 2017 08:15:25 +0700</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Susun Kata</title>
+      <link>http://localhost:1313/work/susun_kata/</link>
+      <pubDate>Mon, 15 Oct 2018 06:21:32 +0700</pubDate>
+      
+      <guid>http://localhost:1313/work/susun_kata/</guid>
+      <description>A simple word game: arrange a word from a collection of random letters. It&amp;rsquo;s only in Bahasa Indonesia at the moment.
+Features:
+ Arrange the letters that were originally random into a meaningful word. Game stacking words in Indonesian Simple but very interesting gameplay, suitable for filling your free time. Every game, you are given a limited amount of time to complete it. 2 minutes per game. Collect scores, and compare your score with all players throughout Indonesia.</description>
+    </item>
+    
+    <item>
+      <title>Wish List, a checklist app</title>
+      <link>http://localhost:1313/work/wish_list/</link>
+      <pubDate>Sat, 10 Feb 2018 01:11:32 +0700</pubDate>
+      
+      <guid>http://localhost:1313/work/wish_list/</guid>
+      <description>A simple application to create any lists easily and quickly.
+Remember and keep track your tasks, wish list, to-do by creating a list. creating a list is a simple way but effective to achieve your list.
+Features :
+ create list by its category add item to the list mark the list item when it&amp;rsquo;s done you can set cost for item list ( money amount for example ) user friendly app with simple &amp;amp; clear UI share the list  you can also use this app to save your groceries list</description>
+    </item>
+    
+    <item>
+      <title>Daily Money Tracker</title>
+      <link>http://localhost:1313/work/catatan_keuangan_harian/</link>
+      <pubDate>Tue, 13 Jun 2017 07:21:32 +0700</pubDate>
+      
+      <guid>http://localhost:1313/work/catatan_keuangan_harian/</guid>
+      <description>Application to record financial activities, both expenditure and income. the application is designed with simple ui. It is so easy to use without reducing the important features.
+Application features:  record expenditure / spending daily money (daily expense) record income (income) expense and earnings reports, counting the difference reports per month reports per week reports per category currency format export and save the report in excel format (xls / spreadsheet) report all financial activity per transaction, make it easier for you to see previous expense history edit &amp;amp; add expense category or income category pin feature before app entry for safety simple design and easy to use  PlayStore : https://play.</description>
+    </item>
+    
+    <item>
+      <title>Javanese Calendar</title>
+      <link>http://localhost:1313/work/javanese_calendar/</link>
+      <pubDate>Tue, 10 Jan 2017 22:21:32 +0700</pubDate>
+      
+      <guid>http://localhost:1313/work/javanese_calendar/</guid>
+      <description>Javanese Calendar is for javanese people who use lunar calendar. it&amp;rsquo;s also contain Indonesian holidays.
+Features Simple and minimalist.
+ Lunar calendar with Indonesian holidays with 2017, 2018, 2019 Additional features are the Java Market (Wage Kliwon Legi Pahing Pon) Flat design Swipe right / left to change month Add a diary (daily note) Daily notes on the calendar can be sent via e-mail Setting font size, set start date of the week.</description>
+    </item>
+    
+    <item>
+      <title>Calendar Notes</title>
+      <link>http://localhost:1313/work/calendar_notes/</link>
+      <pubDate>Fri, 06 Jan 2017 22:21:32 +0700</pubDate>
+      
+      <guid>http://localhost:1313/work/calendar_notes/</guid>
+      <description>An very easy app to save your idea and your notes in a calendar date form
+ beautiful &amp;amp; simple application without any pretension/requirement add a note, idea, personal agenda, diary into calendar perpetual calendar swipe left and right to change month in month view, you can change year by swipe left/right as well backup your notes manually into email or your online storage ( no need to login , you need do this manually ) optimized app, use latest android design guide and library small size APK  Don&amp;rsquo;t let your idea gone, write it down with this calendar notes app !</description>
+    </item>
+    
+    <item>
+      <title>Monster KnockDown , a slingshot game</title>
+      <link>http://localhost:1313/work/monster_knockdown_game/</link>
+      <pubDate>Thu, 14 Apr 2016 06:21:32 +0700</pubDate>
+      
+      <guid>http://localhost:1313/work/monster_knockdown_game/</guid>
+      <description>A physic-based game. Complete interesting challenges here : &amp;ldquo; Knock down monsters to the ground. don&amp;rsquo;t break the precious bottle! &amp;ldquo;
+Features  shoot the monsters with slingshot monster died when it knocked down to the ground this game use real physics 2D slingshot each level has different number of slingshot stone finish a lot of levels simple interesting game  How to play :
+ Shoot monster use slingshot, until all of them fall to the ground ( knocked down ) .</description>
+    </item>
+    
+    <item>
+      <title>Indonesian Calendar</title>
+      <link>http://localhost:1313/work/indonesian_calendar/</link>
+      <pubDate>Sat, 28 Nov 2015 21:21:32 +0700</pubDate>
+      
+      <guid>http://localhost:1313/work/indonesian_calendar/</guid>
+      <description>Calendar for Indonesian people. Simple and minimalist. It shows national holidays.
+Features Simple and minimalist.
+ Indonesian Calendar with 2017 National Holidays, 2018, 2019 Additional features are the Java Market (Wage Kliwon Legi Pahing Pon) Besides that you can also see the calendar month Perpetual Calendar (from year 1 - year 178,956,970) Calendar with a simple view (Simple View) It&amp;rsquo;s similar to the Indonesian calendar on the wall in general Swipe right / left to change month Add a diary (daily note) Daily notes on the calendar can be sent via e-mail Setting font size Small application APK sizes (optimized APK, saving bandwidth &amp;amp; disk storage) Stopwatch and Timer  App link in PlayStore : https://play.</description>
+    </item>
+    
+    <item>
+      <title>Fifteen puzzle game</title>
+      <link>http://localhost:1313/work/fifteen_puzzle_game/</link>
+      <pubDate>Thu, 15 Oct 2015 06:21:32 +0700</pubDate>
+      
+      <guid>http://localhost:1313/work/fifteen_puzzle_game/</guid>
+      <description>The Fifteen puzzle / 15-puzzle (also called Gem Puzzle, Boss Puzzle, Game of Fifteen, Mystic Square and many others) is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. your objective is arrange the number / image in correct order.
+In this game :
+ play normal classic fifteen puzzle play challenge mode photo puzzle / picture puzzle  Finish 8 challenges !</description>
+    </item>
+    
+    <item>
+      <title>Memory game</title>
+      <link>http://localhost:1313/work/memory_game/</link>
+      <pubDate>Thu, 15 Oct 2015 06:21:32 +0700</pubDate>
+      
+      <guid>http://localhost:1313/work/memory_game/</guid>
+      <description>Memory Game is game to improve your brain memory. You need to remember object picture and it position then find matched object in different position. Playing this Memory Game, you will get fun and your memory ability improved
+ Challenge yourself to break your own record to finish the memory game puzzle A fun way to train your brain image memory A lot of categories can be selected in this Memory Game : flowers, animals, cartoons, home, and stuff.</description>
+    </item>
+    
+  </channel>
+</rss>

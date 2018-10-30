@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App on AsyncByte Software</title>
+    <link>http://localhost:1313/tags/app/</link>
+    <description>Recent content in App on AsyncByte Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018 AsyncByte Software</copyright>
+    <lastBuildDate>Wed, 15 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Starting Android development</title>
+      <link>http://localhost:1313/blog/start/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/start/</guid>
+      <description>After being delayed for a while, finally I had a google developer account in August 2015. In July, I started making my first application that I would upload to the store. When I have an account, I can directly upload the APK. My first application is the Transjakarta Busway Navigator, an Android app to search for Transjakarta routes.
+The idea of ​​this app came up because when I came to Jakarta, I completely have no knowledges about Jakarta, I needed this kind of app.</description>
+    </item>
+    
+  </channel>
+</rss>
