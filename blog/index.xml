@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on AsyncByte Software</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://asyncbyte.github.io/blog/</link>
     <description>Recent content in Blog on AsyncByte Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018 AsyncByte Software</copyright>
     <lastBuildDate>Sun, 02 Jul 2017 08:14:51 +0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asyncbyte.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/blog/privacy_policy/</link>
+      <link>https://asyncbyte.github.io/blog/privacy_policy/</link>
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/privacy_policy/</guid>
+      <guid>https://asyncbyte.github.io/blog/privacy_policy/</guid>
       <description>Asyncbyte Software : Your privacy is important to us. Effective date: September 22, 2018
 Asyncbyte Software (&amp;ldquo;us&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) operates the website and our mobile application (the &amp;ldquo;Service&amp;rdquo;).
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
@@ -25,10 +25,10 @@ We use your data to provide and improve the Service. By using the Service, you a
     
     <item>
       <title>Starting Android development</title>
-      <link>http://localhost:1313/blog/start/</link>
+      <link>https://asyncbyte.github.io/blog/start/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/start/</guid>
+      <guid>https://asyncbyte.github.io/blog/start/</guid>
       <description>After being delayed for a while, finally I had a google developer account in August 2015. In July, I started making my first application that I would upload to the store. When I have an account, I can directly upload the APK. My first application is the Transjakarta Busway Navigator, an Android app to search for Transjakarta routes.
 The idea of ​​this app came up because when I came to Jakarta, I completely have no knowledges about Jakarta, I needed this kind of app.</description>
     </item>
